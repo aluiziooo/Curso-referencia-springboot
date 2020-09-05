@@ -8,6 +8,7 @@ public class CursoReferenciaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CursoReferenciaApplication.class, args);
+		System.out.println("olá, veio procurar o que?");
 	}
 
 }
